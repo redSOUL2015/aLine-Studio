@@ -1,0 +1,3 @@
+[build]
+  publish = "artifacts/creator-forge-x/dist"
+  command = "pnpm --filter @workspace/creator-forge-x run build"
